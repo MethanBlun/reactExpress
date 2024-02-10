@@ -1,10 +1,12 @@
 
-//import "./styles.css"
-  export default function App() {
+import './index.css'
 
 
-    return 'hi'
+ export default  function App() {
+ 
+
+  return 'Hi'
 }
 
-
+ 
  
